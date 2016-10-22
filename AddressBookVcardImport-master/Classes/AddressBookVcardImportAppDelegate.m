@@ -26,6 +26,7 @@
     [self.window setRootViewController:viewController];
     [self.window makeKeyAndVisible];
     //Git confit test
+    // hey i updated this ,.,
     return YES;
 }
 
