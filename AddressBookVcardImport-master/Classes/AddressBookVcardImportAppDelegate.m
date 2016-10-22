@@ -25,9 +25,8 @@
     // Add the view controller's view to the window and display.
     [self.window setRootViewController:viewController];
     [self.window makeKeyAndVisible];
-    //abcd
-    //efgh
-    
+    //Git confit test
+    // hey i updated this ,.,
     return YES;
 }
 
